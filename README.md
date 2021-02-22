@@ -79,7 +79,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
     bcryptjs hashes(scrambles) sensitive data to prevent unauthorized access. 
 
 3. How are unit tests different from integration and end-to-end testing?
-    Unit tests focus on single components and only focus on test subject. End to end and integration focuses on the overall app to ensure that each component works synergistically so that he whole app functions as expected.
+    Unit tests focus o n single components and only focus on test subject. End to end and integration focuses on the overall app to ensure that each component works synergistically so that he whole app functions as expected.
 
 4. How does _Test Driven Development_ change the way we write applications and tests?
     TDD is a development methodology that requires developers to create tests before writing any code so that all parts of the app fucntions correctly. This is more efficent in the long run because it eliminates the need to find and fix eventual bugs after much of the app has already been built. 
